@@ -1,0 +1,1 @@
+python /Users/MacBook/PycharmProjects/application_web_api_devise/manage.py runserver
